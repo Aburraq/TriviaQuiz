@@ -20,6 +20,12 @@ The second package follows an alternate approach. It obtains questions from a fi
 - Utilizes StringBuffer for efficient question handling
 - Compares player answers with an answer key obtained from the file
 
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/trivia-quiz-game.git
+2. Revise file source name according to your computer and optionally questions(I know they are little lame).
+
 ## Usage
 - Both packages exist within the same project and can be accessed separately.
 - Follow the specific instructions within each package's directory to run the respective game.
