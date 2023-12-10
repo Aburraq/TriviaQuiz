@@ -23,7 +23,7 @@ The second package follows an alternate approach. It obtains questions from a fi
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/trivia-quiz-game.git
+   git clone https://github.com/Aburraq/TriviaQuiz.git
 2. Revise file source name according to your computer and optionally questions(I know they are little lame).
 
 ## Usage
